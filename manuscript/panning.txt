@@ -1,6 +1,6 @@
 # Planeación Didáctica
 
-## Objetivo del Curso
+## **Objetivo del Curso**
 
 Desarrollar un proyecto integrador que aplique los conocimientos y habilidades adquiridos en Ingeniería Industrial, promoviendo el trabajo en equipo, la innovación y la resolución de problemas reales.
 
@@ -55,7 +55,9 @@ Desarrollar un proyecto integrador que aplique los conocimientos y habilidades a
     2.  Selección de la mejor solución.
     3.  Diseño detallado del proyecto.
 
-## MARZO
+***
+
+## **MARZO**
 
 #### **Desarrollo del Proyecto**
 
@@ -67,6 +69,8 @@ Desarrollar un proyecto integrador que aplique los conocimientos y habilidades a
     1.  Monitoreo y control del progreso.
     2.  Ajustes y mejoras según sea necesario.
     3.  Documentación del proceso.
+
+***
 
 ## **ABRIL**
 
