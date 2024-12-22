@@ -11,16 +11,16 @@ Desarrollar un proyecto integrador que aplique los conocimientos y habilidades a
 #### **Introducción y Planificación del Proyecto**
 
 -   **Semana 1-2:**
-    1.  Introducción al curso y objetivos.
+1.  Introducción al curso y objetivos.
         -   <div>
 
             | ***1 Material de Estudio***
 
             </div>
-    2.  Formación de equipos de trabajo.
-    3.  Identificación de problemas industriales a resolver.
-    4.  Selección del proyecto.
-    5.  **Explicación de los elementos del practicum**
+2.  Formación de equipos de trabajo.
+3.  Identificación de problemas industriales a resolver.
+4.  Selección del proyecto.
+5.  **Explicación de los elementos del practicum**
         -   <div>
 
             | ***2 Material de Estudio***
