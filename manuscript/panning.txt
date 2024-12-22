@@ -12,11 +12,11 @@ Desarrollar un proyecto integrador que aplique los conocimientos y habilidades a
 
 -   **Semana 1-2:**
 1.  Introducción al curso y objetivos.
-        -   <div>
+<div>
 
-            | ***1 Material de Estudio***
+| ***1 Material de Estudio***
 
-            </div>
+</div>
 2.  Formación de equipos de trabajo.
 3.  Identificación de problemas industriales a resolver.
 4.  Selección del proyecto.
