@@ -45,6 +45,11 @@ Desarrollar un proyecto integrador que aplique los conocimientos y habilidades a
     1.  Diseño conceptual del proyecto.
     2.  Identificación de recursos necesarios.
     3.  Desarrollo de propuestas de solución.
+        -   <div>
+
+            > [Formato de reporte semanal](https://filedn.com/lyirwqvvir8yEIJWXrt6bWX/practicum%201/evaluation.html)
+
+           </div>
 -   **Semana 7-8:**
     1.  Evaluación de propuestas.
     2.  Selección de la mejor solución.
