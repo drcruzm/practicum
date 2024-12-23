@@ -4,3 +4,4 @@ panning.txt
 writeIntro.txt
 teoria.txt
 metodologia.txt
+resultados.txt
