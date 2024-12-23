@@ -17,15 +17,18 @@ Desarrollar un proyecto integrador que aplique los conocimientos y habilidades a
 | ***1 Material de Estudio***
 
 </div>
+
 2.  Formación de equipos de trabajo.
 3.  Identificación de problemas industriales a resolver.
 4.  Selección del proyecto.
 5.  **Explicación de los elementos del practicum**
+
 <div>
 
 | ***2 Material de Estudio***
 
 </div>
+
 -   **Semana 3-4:**
 1.  Investigación preliminar y análisis de viabilidad.
 2.  Definición de objetivos específicos del proyecto.
@@ -47,6 +50,7 @@ Desarrollar un proyecto integrador que aplique los conocimientos y habilidades a
 > [Formato de reporte semanal](https://filedn.com/lyirwqvvir8yEIJWXrt6bWX/practicum%201/evaluation.html)
 
 </div>
+
 -   **Semana 7-8:**
 1.  Evaluación de propuestas.
 2.  Selección de la mejor solución.
@@ -62,6 +66,7 @@ Desarrollar un proyecto integrador que aplique los conocimientos y habilidades a
 1.  Implementación de la solución seleccionada.
 2.  Asignación de tareas específicas a los miembros del equipo.
 3.  Inicio del desarrollo práctico.
+
 -   **Semana 11-12:**
 1.  Monitoreo y control del progreso.
 2.  Ajustes y mejoras según sea necesario.
