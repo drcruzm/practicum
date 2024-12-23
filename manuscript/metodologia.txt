@@ -35,9 +35,11 @@ El proceso se llevó a cabo en las siguientes etapas:
 5. **Controlar**: Se establecieron controles para monitorear el rendimiento del proceso y asegurar que las mejoras se mantengan a largo plazo.
 
 **Aplicaciones**:
+
 La metodología Lean Six Sigma ha sido aplicada exitosamente en diversas industrias. Por ejemplo, en un estudio realizado por Smith et al. (2018), la implementación de Lean Six Sigma en una planta de manufactura de automóviles resultó en una reducción del 30% en los tiempos de ciclo y un aumento del 20% en la productividad.
 
 **Razones de su Uso**:
+
 Se eligió la metodología Lean Six Sigma debido a su enfoque integral en la mejora continua y su capacidad para abordar tanto la eficiencia operativa como la calidad del producto. Además, la combinación de herramientas Lean y Six Sigma permite una identificación y eliminación más efectiva de desperdicios y variabilidad en el proceso.
 
 ***
