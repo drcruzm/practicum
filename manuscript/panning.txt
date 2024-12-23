@@ -4,6 +4,8 @@
 
 Desarrollar un proyecto integrador que aplique los conocimientos y habilidades adquiridos en Ingeniería Industrial, promoviendo el trabajo en equipo, la innovación y la resolución de problemas reales.
 
+### @Dr. Víctor Cruz 👨🏻
+
 ### Estructura del Curso
 
 ## **ENERO**
@@ -79,26 +81,26 @@ Desarrollar un proyecto integrador que aplique los conocimientos y habilidades a
 #### **Pruebas y Evaluación**
 
 -   **Semana 13-14:**
-    1.  Pruebas iniciales del proyecto.
-    2.  Recolección de datos y análisis de resultados.
-    3.  Identificación de problemas y áreas de mejora.
+1.  Pruebas iniciales del proyecto.
+2.  Recolección de datos y análisis de resultados.
+3.  Identificación de problemas y áreas de mejora.
 -   **Semana 15-16:**
-    1.  Implementación de mejoras.
-    2.  Pruebas finales.
-    3.  Evaluación del desempeño del proyecto.
+1.  Implementación de mejoras.
+2.  Pruebas finales.
+3.  Evaluación del desempeño del proyecto.
 
 ## **MAYO**
 
 #### **Presentación y Retroalimentación**
 
 -   **Semana 17-18:**
-    1.  Preparación de la presentación final.
-    2.  Elaboración de informes y documentación final.
-    3.  Ensayos de presentación.
+1.  Preparación de la presentación final.
+2.  Elaboración de informes y documentación final.
+3.  Ensayos de presentación.
 -   **Semana 19-20:**
-    1.  Presentación del proyecto ante un panel de evaluadores.
-    2.  Retroalimentación y discusión de resultados.
-    3.  Reflexión sobre el aprendizaje y cierre del curso.
+1.  Presentación del proyecto ante un panel de evaluadores.
+2.  Retroalimentación y discusión de resultados.
+3.  Reflexión sobre el aprendizaje y cierre del curso.
 
 ## **Metodología**
 
