@@ -12,6 +12,8 @@ En este repositorio de contenido predeterminado, los dos archivos enumerados en 
 
 También en la carpeta "manuscrito", verá una carpeta de "recursos". Las imágenes y otros recursos se colocarán en esta carpeta.
 
-Si está buscando un tutorial, seleccione el tutorial de introducción para el modo de escritura de libros elegid[here](http://help.leanpub.com/en/articles/3088382-quick-walkthroughs-for-getting-started-on-a-leanpub-book) in our [Help Center](http://help.leanpub.com/en), which has hundreds of useful articles for Leanpub authors.
+Si está buscando un tutorial, seleccione el tutorial de introducción para el modo de escritura de libros [here](http://help.leanpub.com/en/articles/3088382-quick-walkthroughs-for-getting-started-on-a-leanpub-book) 
+
+in our [Help Center](http://help.leanpub.com/en), which has hundreds of useful articles for Leanpub authors.
 
 Good luck with all your writing!
