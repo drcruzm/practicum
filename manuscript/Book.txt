@@ -3,3 +3,4 @@ introduccion.txt
 panning.txt
 writeIntro.txt
 teoria.txt
+metodologia.txt
