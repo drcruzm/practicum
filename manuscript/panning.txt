@@ -6,7 +6,7 @@ Desarrollar un proyecto integrador que aplique los conocimientos y habilidades a
 
 ### @Dr. Víctor Cruz 👨🏻
 
-### Estructura del Curso
+**Estructura del Curso**
 
 ## **ENERO**
 
@@ -102,7 +102,7 @@ Desarrollar un proyecto integrador que aplique los conocimientos y habilidades a
 2.  Retroalimentación y discusión de resultados.
 3.  Reflexión sobre el aprendizaje y cierre del curso.
 
-## **Metodología**
+## **Metodología del Curso**
 
 1.  **Clases Teóricas:** Explicación de conceptos clave y metodologías.
 2.  **Talleres Prácticos:** Aplicación de conocimientos en situaciones reales.
@@ -114,3 +114,19 @@ Desarrollar un proyecto integrador que aplique los conocimientos y habilidades a
 1.  **Material Didáctico:** Libros, artículos, y recursos en línea.
 2.  **Herramientas de Software:** Programas de diseño y simulación.
 3.  **Equipos y Materiales:** Según las necesidades del proyecto seleccionado.
+
+## **Ejemplos Presentaciones **
+<div>
+
+> [Formato de reporte semanal](https://filedn.com/lyirwqvvir8yEIJWXrt6bWX/practicum%201/evaluation.html)
+
+</div>
+
+<div>
+
+> [Formato de reporte semanal](https://filedn.com/lyirwqvvir8yEIJWXrt6bWX/practicum%201/evaluation.html)
+
+</div>
+
+
+
