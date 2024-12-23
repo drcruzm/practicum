@@ -21,19 +21,16 @@ Desarrollar un proyecto integrador que aplique los conocimientos y habilidades a
 3.  Identificación de problemas industriales a resolver.
 4.  Selección del proyecto.
 5.  **Explicación de los elementos del practicum**
-        -   <div>
+<div>
 
-            | ***2 Material de Estudio***
+| ***2 Material de Estudio***
 
-            </div>
+</div>
 -   **Semana 3-4:**
-    1.  Investigación preliminar y análisis de viabilidad.
-
-    2.  Definición de objetivos específicos del proyecto.
-
-    3.  Planificación de actividades y cronograma.
-
-    4.  **Ejemplos de Aplicación**
+1.  Investigación preliminar y análisis de viabilidad.
+2.  Definición de objetivos específicos del proyecto.
+3.  Planificación de actividades y cronograma.
+4.  **Ejemplos de Aplicación**
 
 ***
 
@@ -42,18 +39,18 @@ Desarrollar un proyecto integrador que aplique los conocimientos y habilidades a
 #### **Diseño del Proyecto**
 
 -   **Semana 5-6:**
-    1.  Diseño conceptual del proyecto.
-    2.  Identificación de recursos necesarios.
-    3.  Desarrollo de propuestas de solución.
-        -   <div>
+1.  Diseño conceptual del proyecto.
+2.  Identificación de recursos necesarios.
+3.  Desarrollo de propuestas de solución.
+<div>
 
-            > [Formato de reporte semanal](https://filedn.com/lyirwqvvir8yEIJWXrt6bWX/practicum%201/evaluation.html)
+> [Formato de reporte semanal](https://filedn.com/lyirwqvvir8yEIJWXrt6bWX/practicum%201/evaluation.html)
 
-           </div>
+</div>
 -   **Semana 7-8:**
-    1.  Evaluación de propuestas.
-    2.  Selección de la mejor solución.
-    3.  Diseño detallado del proyecto.
+1.  Evaluación de propuestas.
+2.  Selección de la mejor solución.
+3.  Diseño detallado del proyecto.
 
 ***
 
@@ -62,13 +59,13 @@ Desarrollar un proyecto integrador que aplique los conocimientos y habilidades a
 #### **Desarrollo del Proyecto**
 
 -   **Semana 9-10:**
-    1.  Implementación de la solución seleccionada.
-    2.  Asignación de tareas específicas a los miembros del equipo.
-    3.  Inicio del desarrollo práctico.
+1.  Implementación de la solución seleccionada.
+2.  Asignación de tareas específicas a los miembros del equipo.
+3.  Inicio del desarrollo práctico.
 -   **Semana 11-12:**
-    1.  Monitoreo y control del progreso.
-    2.  Ajustes y mejoras según sea necesario.
-    3.  Documentación del proceso.
+1.  Monitoreo y control del progreso.
+2.  Ajustes y mejoras según sea necesario.
+3.  Documentación del proceso.
 
 ***
 
