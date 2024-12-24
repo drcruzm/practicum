@@ -14,9 +14,10 @@
    - **Objetivo**: Explicar por qué es importante abordar este problema.
    - **Contenido**: Razones de la relevancia del problema, tanto teóricas como prácticas. Puede incluir la importancia para la industria, la sociedad, o el avance del conocimiento.
 
-4. **Objetivos**:
+4. **Objetivos**
    - **Objetivo**: Establecer lo que tu investigación pretende lograr.
    - **Contenido**: Objetivo general y objetivos específicos de la investigación.
+   - **SMART**: La redaccion del objetivo sera [SMART](https://leanpub.com/prt1/read#objetivo-smart)
 
 5. **Alcance**:
    - **Objetivo**: Delimitar el alcance de tu estudio.
