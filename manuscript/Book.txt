@@ -5,3 +5,4 @@ writeIntro.txt
 teoria.txt
 metodologia.txt
 resultados.txt
+smart.txt
