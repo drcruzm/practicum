@@ -1,0 +1,28 @@
+# Objetivo SMART
+
+Un objetivo SMART permite definir metas de manera clara y alcanzable. 
+
+El acrónimo SMART se refiere a cinco criterios clave que todo objetivo debe cumplir:
+
+1. **Específico (Specific)**: El objetivo debe ser claro y concreto. Debe describir de manera detallada qué es lo que deseas lograr.
+
+2. **Medible (Measurable)**: Debe ser posible medir el progreso hacia la consecución del objetivo. Esto implica definir indicadores o métricas que permitan evaluar si te estás acercando a la meta.
+
+3. **Alcanzable (Achievable)**: El objetivo debe ser realista y posible de alcanzar, considerando los recursos y el tiempo disponible.
+
+4. **Relevante (Relevant)**: Debe tener sentido en el contexto de tus necesidades, prioridades o visión a largo plazo. Es decir, debe ser un objetivo que realmente aporte valor a tu vida o tu trabajo.
+
+5. **Limitado en el tiempo (Time-bound)**: Todo objetivo debe tener un plazo o una fecha límite en la que se espera que se haya cumplido.
+
+## Ejemplo de un objetivo SMART
+
+**Objetivo Personal: Mejorar la condición física**
+
+- **Específico**: Quiero mejorar mi condición física corriendo.
+- **Medible**: Correré 5 kilómetros sin parar.
+- **Alcanzable**: Actualmente corro 2 kilómetros, por lo que aumentaré gradualmente la distancia.
+- **Relevante**: Mejorar mi condición física es importante para mi salud general.
+- **Limitado en el tiempo**: Lograré correr 5 kilómetros sin parar en los próximos 3 meses.
+
+[Ejemplos](https://www.ejemplo.com)
+
