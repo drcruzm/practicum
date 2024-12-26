@@ -1,8 +1,6 @@
 Estructura.txt
 Introduccion2.txt
 panning.txt
-writeIntro.txt
-teoria.txt
 metodologia.txt
 Ejemplo.txt
 resultados.txt
