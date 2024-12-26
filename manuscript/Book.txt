@@ -1,6 +1,6 @@
 Estructura.txt
 Introduccion2.txt
-panning.txt
+planning.txt
 metodologia.txt
 Ejemplo.txt
 resultados.txt
