@@ -1,5 +1,5 @@
 Estructura.txt
-Introduccion.txt
+Introduccion2.txt
 panning.txt
 writeIntro.txt
 teoria.txt
