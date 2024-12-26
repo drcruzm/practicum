@@ -4,5 +4,6 @@ panning.txt
 metodologia.txt
 Ejemplo.txt
 resultados.txt
+Conclusiones.txt
 Recomendacion.txt
 smart.txt
