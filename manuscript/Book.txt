@@ -4,5 +4,6 @@ panning.txt
 writeIntro.txt
 teoria.txt
 metodologia.txt
+Ejemplo.txt
 resultados.txt
 smart.txt
