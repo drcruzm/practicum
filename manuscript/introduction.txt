@@ -18,9 +18,13 @@
 - **Objetivo**: Establecer lo que tu investigación pretende lograr.
 - **Contenido**: Objetivo general y objetivos específicos de la investigación.
 - **SMART**: La redaccion del objetivo sera SMART
-      [SMART](https://leanpub.com/prt1/read#objetivo-smart)
 
+<div>
 
+> [SMART](https://leanpub.com/prt1/read#objetivo-smart)
+
+</div>
+      
 5. **Alcance**:
    - **Objetivo**: Delimitar el alcance de tu estudio.
    - **Contenido**: Explicación de los límites y las delimitaciones de tu investigación.
