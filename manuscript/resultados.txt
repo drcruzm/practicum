@@ -28,6 +28,7 @@ Se implementaron técnicas de Lean Manufacturing en la línea de producción de 
 
 - **Tabla 1**: 
 Tiempos de ciclo antes y después de la implementación de Lean Manufacturing.
+
   | Fase del Proceso | Antes (minutos) | Después (minutos) |
   |------------------|-----------------|------------------|
   | Ensamblaje       | 15              | 10               |
