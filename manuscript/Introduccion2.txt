@@ -55,4 +55,17 @@ El objetivo general de este proyecto es mejorar la eficiencia operativa de la em
 
 Este estudio se centrará en la línea de producción de la empresa XYZ, específicamente en el ensamblaje de componentes electrónicos. No se incluirán otras áreas de la empresa, como la logística o la gestión de inventarios, aunque se reconocerá su importancia en el contexto general de la eficiencia operativa.
 
+
+## Ejemplos Prácticum
+
+> [Ejemplo 1](https://leanpub.com/prt1/read#objetivo-smart)
+
+> [Ejemplo 1](https://leanpub.com/prt1/read#objetivo-smart)
+
+> [Ejemplo 1](https://leanpub.com/prt1/read#objetivo-smart)
+
+---
+
+
+
 {pagebreak}
