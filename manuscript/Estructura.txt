@@ -1,4 +1,6 @@
-# Estructura del Practicum
+# Estructura del Practicum 
+
+### @Dr. Víctor Cruz 👨🏻
 
 ## 1. Introducción
 
@@ -61,6 +63,11 @@
 - **Claridad y Concisión**: Asegúrate de que cada sección sea clara y concisa.
 - **Citas y Referencias**: Cita todas las fuentes de manera adecuada para evitar el plagio.
 - **Revisión y Edición**: Revisa y edita tu paper varias veces para corregir errores y mejorar la redacción.
+
+***
+
+
+
 
 ***
 
