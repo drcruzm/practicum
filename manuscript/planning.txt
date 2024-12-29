@@ -6,8 +6,6 @@ Desarrollar un proyecto integrador que aplique los conocimientos y habilidades a
 
 ### @Dr. Víctor Cruz 👨🏻
 
-**Estructura del Curso**
-
 ## **ENERO**
 
 ### **Introducción y Planificación del Proyecto**
@@ -106,7 +104,7 @@ Desarrollar un proyecto integrador que aplique los conocimientos y habilidades a
 
 🔬🔬⛏️📒
 
-
+***
 
 {aside}
 Asides can be written this way, since adding a bunch of A> stuff at the beginning of each line can get annoying with longer asides.
