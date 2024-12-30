@@ -4,7 +4,7 @@
 
 Desarrollar un proyecto integrador que aplique los conocimientos y habilidades adquiridos en Ingeniería Industrial, promoviendo el trabajo en equipo, la innovación y la resolución de problemas reales.
 
-Metodología del Curso**
+### **Metodología del Curso**
 
 1. **Clases Teóricas:** Explicación de conceptos clave y metodologías.
 2. **Talleres Prácticos:** Aplicación de conocimientos en situaciones reales.
@@ -13,7 +13,10 @@ Metodología del Curso**
 
 ## **Recursos Necesarios**
 
-1. **Material Didáctico:** Libros, artículos, y recursos en línea.
+1. **Material Didáctico:** Libros, artículos, y **recursos en línea**.
+
+> [Google NotebookLM](https://notebooklm.google/)
+
 2. **Herramientas de Software:** Programas de diseño y simulación.
 3. **Equipos y Materiales:** Según las necesidades del proyecto seleccionado.
 
