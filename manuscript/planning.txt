@@ -4,9 +4,18 @@
 
 Desarrollar un proyecto integrador que aplique los conocimientos y habilidades adquiridos en Ingeniería Industrial, promoviendo el trabajo en equipo, la innovación y la resolución de problemas reales.
 
-### @Dr. Víctor Cruz 👨🏻
+Metodología del Curso**
 
-## **ENERO**
+1. **Clases Teóricas:** Explicación de conceptos clave y metodologías.
+2. **Talleres Prácticos:** Aplicación de conocimientos en situaciones reales.
+3. **Trabajo en Equipo:** Fomento de la colaboración y el trabajo en equipo.
+4. **Evaluaciones Continuas:** Monitoreo del progreso y retroalimentación constante.
+
+## **Recursos Necesarios**
+
+1. **Material Didáctico:** Libros, artículos, y recursos en línea.
+2. **Herramientas de Software:** Programas de diseño y simulación.
+3. **Equipos y Materiales:** Según las necesidades del proyecto seleccionado.
 
 ### **Introducción y Planificación del Proyecto**
 
@@ -82,19 +91,6 @@ Desarrollar un proyecto integrador que aplique los conocimientos y habilidades a
 6.  Evaluación del desempeño del proyecto.
 
 > [8 Material de Estudio](https://filedn.com/lyirwqvvir8yEIJWXrt6bWX/practicum%201/evaluation.html)
-
-## **Metodología del Curso**
-
-1.  **Clases Teóricas:** Explicación de conceptos clave y metodologías.
-2.  **Talleres Prácticos:** Aplicación de conocimientos en situaciones reales.
-3.  **Trabajo en Equipo:** Fomento de la colaboración y el trabajo en equipo.
-4.  **Evaluaciones Continuas:** Monitoreo del progreso y retroalimentación constante.
-
-## **Recursos Necesarios**
-
-1.  **Material Didáctico:** Libros, artículos, y recursos en línea.
-2.  **Herramientas de Software:** Programas de diseño y simulación.
-3.  **Equipos y Materiales:** Según las necesidades del proyecto seleccionado.
 
 ## **Ejemplos Presentaciones**
 
